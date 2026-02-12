@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5a4;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#38bdf8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <clipPath id="circleClip">
+      <circle cx="200" cy="200" r="190"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#mainGradient)"/>
+  
+  <!-- Circular badge/frame -->
+  <circle cx="200" cy="200" r="190" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="3"/>
+  <circle cx="200" cy="200" r="180" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  
+  <!-- Placeholder icon if no image available -->
+  <g clip-path="url(#circleClip)">
+    <!-- Background circle for placeholder -->
+    <circle cx="200" cy="200" r="190" fill="#1a1f3a" opacity="0.8"/>
+    
+    <!-- Placeholder person silhouette -->
+    <circle cx="200" cy="130" r="45" fill="rgba(255,255,255,0.2)"/>
+    <path d="M 140 210 Q 140 180 200 180 Q 260 180 260 210 L 260 280 Q 260 300 240 300 L 160 300 Q 140 300 140 280 Z" 
+          fill="rgba(255,255,255,0.2)"/>
+    
+    <!-- Text hint -->
+    <text x="200" y="335" font-family="'Segoe UI', Arial, sans-serif" font-size="16" 
+          fill="rgba(255,255,255,0.5)" text-anchor="middle">Unggah Foto Anda</text>
+  </g>
+  
+  <!-- Decorative corner elements -->
+  <circle cx="80" cy="80" r="8" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="320" cy="80" r="8" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="80" cy="320" r="8" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="320" cy="320" r="8" fill="rgba(255,255,255,0.1)"/>
+</svg>

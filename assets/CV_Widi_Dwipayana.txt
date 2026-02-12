@@ -1,0 +1,162 @@
+================================================================================
+                              WIDI DWIPAYANA
+                    Mahasiswa S1 Pendidikan Teknik Elektro
+                          Universitas Negeri Jakarta
+================================================================================
+
+📧 EMAIL          : widi@email.com
+📱 WHATSAPP       : +62 851-8303-5367
+📍 LOKASI         : Jakarta, Indonesia
+💼 LINKEDIN       : linkedin.com/in/wididwi-permadi-a79aa0200
+🐙 GITHUB         : github.com/Rasazas
+📷 INSTAGRAM      : @wididwipermadi
+
+================================================================================
+PROFIL SINGKAT
+================================================================================
+
+Mahasiswa S1 Pendidikan Teknik Elektro (IPK 3.72/4.00) di Universitas Negeri 
+Jakarta dengan fokus pada pengolahan data, penulisan laporan teknis, dan penguasaan 
+Microsoft Office. Berpengalaman sebagai Konsultan Pengawas, Teknisi Asesmen Kabel, 
+dan Pengajar di SMK.
+
+Memiliki kombinasi unik antara keahlian teknis industri dan pedagogik, sehingga 
+cocok untuk karier di bidang pendidikan vokasi, trainee engineer, atau technical 
+support edukatif. Mampu bekerja mandiri maupun tim dengan manajemen waktu yang baik.
+
+================================================================================
+PENDIDIKAN
+================================================================================
+
+S1 Pendidikan Teknik Elektro
+Universitas Negeri Jakarta (2021-2026)
+IPK: 3.72/4.00
+Fokus: Pengolahan Data, Laporan Teknis, Microsoft Office
+
+SMA Negeri 2 Babelan (Jurusan IPA)
+Rata-rata Nilai: 86.80
+
+================================================================================
+PENGALAMAN KERJA
+================================================================================
+
+1. KONSULTAN PENGAWAS
+   PT Selaras Cakra Utama
+   ├─ Pengawasan pemasangan instalasi listrik sesuai standar
+   ├─ Penyusunan laporan teknis proyek
+   └─ Dokumentasi profesional
+
+2. TEKNISI ASESMEN KABEL SUTM
+   PT Daya Asesment Indonesia
+   ├─ Asesmen kabel Saluran Udara Tegangan Menengah (SUTM)
+   ├─ Penyusunan laporan teknis asesmen detail dan akurat
+   └─ Standar keselamatan tinggi
+
+3. GURU
+   SMK Negeri 15 Jakarta
+   ├─ Pengajaran dasar-dasar tenaga listrik
+   ├─ Penyusunan RPP (Rencana Pelaksanaan Pembelajaran)
+   ├─ Pembuatan modul pembelajaran efektif
+   └─ Bimbingan praktis dan teoritis siswa
+
+================================================================================
+KEAHLIAN TEKNIS
+================================================================================
+
+MICROSOFT OFFICE (⭐⭐⭐⭐)
+├─ Excel: Pengolahan data, visualisasi, analisis tren
+├─ Word: Laporan profesional, dokumentasi teknis
+└─ Access: Database management
+
+DESAIN & APLIKASI (⭐⭐⭐)
+├─ AutoCAD: Desain teknis instalasi listrik, layout presisi
+├─ Web Design: HTML, CSS, responsive design
+├─ UI/UX Design: Figma, prototyping
+└─ Java Programming: Dasar-dasar programming
+
+VERSION CONTROL (⭐⭐⭐)
+├─ GitHub: Kolaborasi proyek, dokumentasi
+└─ Git: Version control workflow
+
+TEKNIS LISTRIK (⭐⭐⭐⭐)
+├─ Instalasi Listrik: Pemasangan, pengawasan
+├─ Asesmen Kabel: SUTM assessment
+├─ Panel Handling: Praktik industri
+├─ PLC Programming: Dasar logic programming
+├─ Inverter: Kontrol kecepatan motor
+└─ Pneumatik: Sistem pneumatik otomasi
+
+SOFT SKILLS
+├─ Manajemen Waktu (Baik)
+├─ Komunikasi Teknis
+├─ Pelaporan Profesional
+├─ Pembelajaran Berkelanjutan
+└─ Teamwork & Kolaborasi
+
+================================================================================
+PELATIHAN & SERTIFIKASI
+================================================================================
+
+✓ Sertifikat Kompetensi Tenaga Teknik Ketenagalistrikan
+✓ Pelatihan PLC (Programmable Logic Controller)
+✓ Pelatihan Inverter & Variable Frequency Drive (VFD)
+✓ Pelatihan Pneumatik & Sistem Otomasi
+✓ Workshop Web Development & UI/UX Design
+✓ Pelatihan Penggunaan AutoCAD untuk Desain Teknis
+
+================================================================================
+PORTOFOLIO & PROYEK UTAMA
+================================================================================
+
+1. WEBSITE PELATIHAN SMART HOME INSTALLATION 🌟
+   Tipe: Capstone Project / Skripsi
+   ├─ Website edukatif interaktif untuk pelatihan instalasi smart home
+   ├─ Fitur: Konten pembelajaran, modul, quiz, progress tracking
+   ├─ UI/UX: User-friendly untuk trainer dan mahasiswa
+   └─ Tech Stack: HTML, CSS, JavaScript, Responsive Design
+
+2. DESAIN TEKNIS AUTOCAD
+   ├─ Gambar layout instalasi listrik berbagai tipe proyek
+   ├─ Presisi tinggi sesuai standar industri
+   └─ Dokumentasi teknis berkualitas profesional
+
+3. LAPORAN TEKNIS PEMASANGAN
+   ├─ Dokumentasi komplit proyek instalasi listrik
+   ├─ Format profesional sesuai regulasi
+   └─ Penyusunan RPP & modul pembelajaran untuk SMK
+
+4. PENGOLAHAN DATA ANALISIS
+   ├─ Excel: Data processing, visualisasi grafis
+   ├─ Analisis tren & keputusan berbasis data
+   └─ Dashboard reporting profesional
+
+5. PELATIHAN & INSTRUKSI TEKNIS
+   ├─ PLC programming & industrial automation
+   ├─ Metode pembelajaran praktis & teoritis
+   └─ Modul pembelajaran terstruktur
+
+================================================================================
+BAHASA
+================================================================================
+
+Bahasa Indonesia    : Lancar (Bahasa Ibu)
+English (Basic)     : Dasar-dasar komunikasi
+
+================================================================================
+REFERENSI & KONTAK PENTING
+================================================================================
+
+Siap memberikan referensi dari:
+✓ PT Selaras Cakra Utama (Konsultan Pengawas)
+✓ PT Daya Asesment Indonesia (Teknisi Asesmen)
+✓ SMK Negeri 15 Jakarta (Percaya Diri Mengajar)
+✓ Universitas Negeri Jakarta (Akademik)
+
+Untuk informasi lebih lanjut atau diskusi peluang karir:
+📱 WhatsApp   : +62 851-8303-5367
+📧 Email      : widi@email.com
+💼 LinkedIn   : linkedin.com/in/wididwi-permadi-a79aa0200
+
+================================================================================
+TERAKHIR DIUPDATE: Februari 2026
+================================================================================
